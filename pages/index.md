@@ -1,3 +1,7 @@
+---
+layout: layout.njk
+---
+
 # Welcome to my website
 
 This if my first page using **Lume,**
