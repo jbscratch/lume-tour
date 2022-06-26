@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "serve": "lume --serve --src ./pages"
+    }
+}
