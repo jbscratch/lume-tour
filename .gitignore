@@ -1,0 +1,2 @@
+# ignore _site as it's the output dir of lume generator
+_site
